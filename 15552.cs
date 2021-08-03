@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-class Class1
+class BackJoon15552
 {
     static void Main()
     {

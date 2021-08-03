@@ -2,7 +2,7 @@
 
 namespace ConsoleApp10
 {
-    class Program
+    class BackJoon14681
     {
         static void Main(string[] args)
         {
