@@ -8,7 +8,7 @@ namespace BackJoon
         {
             int count = 1;
             string input = Console.ReadLine();
-            string ok = input;
+            int ok = int.Parse(input);
             while (true)
             {
                 char[] temp3 = input.ToCharArray();
@@ -17,7 +17,7 @@ namespace BackJoon
                 {
                     temp[i] = temp3[i].ToString();
                 }
-                string result;
+                int result;
                 int[] num = new int[2];
                 int temp2;
 
@@ -38,9 +38,13 @@ namespace BackJoon
                     temp2 = num[1];
                 }
 
-                if (temp2 < 10)
+                if (temp2 < 10 && temp.Length == 1)
                 {
-                    result = temp[1].ToString() + temp2.ToString();
+                    result = int.Parse(temp[0].ToString() + temp2.ToString());
+                }
+                else if (temp2 < 10)
+                {
+                    result = int.Parse(temp[1].ToString() + temp2.ToString());
                 }
                 else
                 {
@@ -51,16 +55,16 @@ namespace BackJoon
                     {
                         c[i] = b[i].ToString();
                     }
-                    result = temp[1] + c[1];
+                    result = int.Parse(temp[1] + c[1]);
                 }
                 if (ok == result)
                 {
                     Console.Write(count);
-                    break;
+                    return;
                 }
                 else
                 {
-                    input = result;
+                    input = result.ToString();
                 }
                 count++;
             }
