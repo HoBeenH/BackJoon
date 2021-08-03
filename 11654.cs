@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class BackJoon11654
 {
-    static void Main()
+    static void Quest()
     {
         char[] temp = Console.ReadLine().ToCharArray();
         int a = temp[0];

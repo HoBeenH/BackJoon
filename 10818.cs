@@ -4,7 +4,7 @@ namespace BackJoon
 {
     class BackJoon10818
     {
-        static void Main(string[] args)
+        static void Quest(string[] args)
         {
             int numCount = int.Parse(Console.ReadLine());
             string[] temp = Console.ReadLine().Split(" ");

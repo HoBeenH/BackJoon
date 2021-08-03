@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class BackJoon11720
 {
-    static void Main()
+    static void Quest()
     {
         int max = int.Parse(Console.ReadLine());
         string temp = Console.ReadLine();

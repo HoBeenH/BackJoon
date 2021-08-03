@@ -3,7 +3,7 @@ using System.Text;
 
 class BackJoon15552
 {
-    static void Main()
+    static void Quest()
     {
         int testCase = int.Parse(Console.ReadLine());
         StringBuilder a = new StringBuilder();

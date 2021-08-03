@@ -3,7 +3,7 @@ using System.Text;
 
 class BackJoon11022
 {
-    static void Main()
+    static void Quest()
     {
         int max = int.Parse(Console.ReadLine());
         StringBuilder result = new StringBuilder();

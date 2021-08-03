@@ -4,7 +4,7 @@ namespace ConsoleApp10
 {
     class BackJoon14681
     {
-        static void Main(string[] args)
+        static void Quest(string[] args)
         {
             int x = int.Parse(Console.ReadLine());
             int y = int.Parse(Console.ReadLine());
