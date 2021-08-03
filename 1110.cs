@@ -4,7 +4,7 @@ namespace BackJoon
 {
     class BackJoon1110
     {
-        static void Quest()
+        static void Main()
         {
             int count = 1;
             string input = Console.ReadLine();
