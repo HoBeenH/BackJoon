@@ -1,7 +1,8 @@
-﻿ng System;
+﻿using System;
+
 class BackJoon2231
 {
-    static void Main()
+    static void Quest()
     {
         string input = Console.ReadLine();
         int maxInt = int.Parse(input);

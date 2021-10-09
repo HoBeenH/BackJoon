@@ -7,7 +7,7 @@ namespace ConsoleApp1
     {
         private static int allCount = 0;
 
-        private static void Main(string[] args)
+        private static void Quest(string[] args)
         {
             var count = int.Parse(Console.ReadLine());
             var result = new StringBuilder();

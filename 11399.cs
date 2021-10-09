@@ -1,7 +1,7 @@
 ﻿using System;
 class BackJoon11399
 {
-    static void Main()
+    static void Quest()
     {
         int count = int.Parse(Console.ReadLine());
         string[] temp = Console.ReadLine().Split(" ");

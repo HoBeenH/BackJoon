@@ -5,7 +5,7 @@ namespace BackJoon
 {
     class BackJoon2164
     {
-        static void Main()
+        static void Quest()
         {
             int num = int.Parse(Console.ReadLine());
             Queue<int> cards = new Queue<int>();

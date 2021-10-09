@@ -6,7 +6,7 @@ namespace BackJoon
 {
     class BackJoon18258
     {
-        static void Main()
+        static void Quest()
         {
             StringBuilder result = new StringBuilder();
             Queue<int> box = new Queue<int>();

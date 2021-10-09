@@ -5,7 +5,7 @@ namespace BackJoon
 {
     class BackJoon1002
     {
-        static void Main()
+        static void Quest()
         {
             StringBuilder result = new StringBuilder();
             int testCase = int.Parse(Console.ReadLine());

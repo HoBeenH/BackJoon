@@ -3,7 +3,7 @@ using System.Text;
 using System.Collections.Generic;
 class BackJoon10828
 {
-    static void Main()
+    static void Quest()
     {
         int testCase = int.Parse(Console.ReadLine());
         Stack<int> result = new Stack<int>();

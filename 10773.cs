@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 class BackJoon10773
 {
-    static void Main()
+    static void Quest()
     {
         Stack<int> result = new Stack<int>();
         int temp = int.Parse(Console.ReadLine());

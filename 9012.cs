@@ -1,4 +1,4 @@
-﻿using Syusing System;
+﻿using System;
 using System.Text;
 using System.Collections.Generic;
 class BackJoon9012

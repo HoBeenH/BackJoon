@@ -5,7 +5,7 @@ namespace BackJoon
 {
     class BackJoon11047
     {
-        static void Main()
+        static void Quest()
         {
             string[] countAndMax = Console.ReadLine().Split(" ");
             int[] money = new int[int.Parse(countAndMax[0])];

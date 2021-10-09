@@ -4,7 +4,7 @@ namespace BackJoon
 {
     class BackJoon1157
     {
-        static void Main()
+        static void Quest()
         {
             string input = Console.ReadLine().ToUpper();
             char[] inputToCharArry = input.ToCharArray();

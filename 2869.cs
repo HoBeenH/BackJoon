@@ -4,7 +4,7 @@ namespace BackJoon
 {
     class BackJoon2869
     {
-        static void Main()
+        static void Quest()
         {
             string[] input = Console.ReadLine().Split(" ");
             long up = long.Parse(input[0]);

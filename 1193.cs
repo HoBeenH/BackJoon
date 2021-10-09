@@ -4,7 +4,7 @@ namespace BackJoon
 {
     class BackJoon1193
     {
-        static void Main()
+        static void Quest()
         {
             int findZigZag = int.Parse(Console.ReadLine());
             int map = 1;
