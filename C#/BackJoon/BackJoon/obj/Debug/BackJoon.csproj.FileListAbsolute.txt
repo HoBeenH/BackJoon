@@ -1,0 +1,7 @@
+C:\Users\whdms\Documents\BackJoon\BackJoon\C#\BackJoon\BackJoon\bin\Debug\BackJoon.exe
+C:\Users\whdms\Documents\BackJoon\BackJoon\C#\BackJoon\BackJoon\bin\Debug\BackJoon.pdb
+C:\Users\whdms\Documents\BackJoon\BackJoon\C#\BackJoon\BackJoon\obj\Debug\BackJoon.csproj.AssemblyReference.cache
+C:\Users\whdms\Documents\BackJoon\BackJoon\C#\BackJoon\BackJoon\obj\Debug\BackJoon.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdms\Documents\BackJoon\BackJoon\C#\BackJoon\BackJoon\obj\Debug\BackJoon.csproj.CoreCompileInputs.cache
+C:\Users\whdms\Documents\BackJoon\BackJoon\C#\BackJoon\BackJoon\obj\Debug\BackJoon.exe
+C:\Users\whdms\Documents\BackJoon\BackJoon\C#\BackJoon\BackJoon\obj\Debug\BackJoon.pdb

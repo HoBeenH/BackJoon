@@ -2,7 +2,7 @@
 
 namespace BackJoon
 {
-    internal class Program
+    internal class Q_2566
     {
         public struct Vector
         {
@@ -12,7 +12,7 @@ namespace BackJoon
             
             public override string ToString() => $"{num.ToString()}\n{y.ToString()} {x.ToString()}";
         }
-        public static void Main(string[] args)
+        public static void EntryPoint(string[] args)
         {
             var _vec = new Vector
             {
