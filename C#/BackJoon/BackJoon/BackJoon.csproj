@@ -42,7 +42,10 @@
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="Q_10807.cs" />
+        <Compile Include="Q_10815.cs" />
+        <Compile Include="Q_14425.cs" />
         <Compile Include="Q_25304.cs" />
+        <Compile Include="Q_2563.cs" />
         <Compile Include="Q_2566.cs" />
         <Compile Include="Q_2738.cs" />
         <Compile Include="Q_3003.cs" />

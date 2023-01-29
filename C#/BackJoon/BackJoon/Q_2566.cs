@@ -2,7 +2,7 @@
 
 namespace BackJoon
 {
-    internal class Q_2566
+    public class Q_2566
     {
         public struct Vector
         {
