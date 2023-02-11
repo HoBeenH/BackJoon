@@ -1,13 +1,12 @@
-﻿using System;
-using System.IO;
+﻿using System.IO;
 using System.Text;
 using static System.Console;
 
 namespace BackJoon
 {
-    internal class Program
+    public class Q_25501
     {
-        public static void Main(string[] args)
+        public static void EntryPoint(string[] args)
         {
             using (var _sr = new StreamReader(OpenStandardInput()))
             {
@@ -25,7 +24,6 @@ namespace BackJoon
             }
         }
         
-
         private class Palindrome
         {
             private char[] m_StrToChar;
